@@ -40,7 +40,7 @@ The data team was challenged to run a focused pilot proving that a new declarati
 
 ---
 
-## 🛠️ Technology Stack
+## ⚙️ Technology Stack
 
 | Component          | Technology                           | Purpose                                |
 | ------------------ | ------------------------------------ | -------------------------------------- |
