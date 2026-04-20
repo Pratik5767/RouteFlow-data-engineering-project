@@ -104,11 +104,11 @@ routeflow_catalog
 
 ### Project Flow
 
-<img src="architecture.png" alt="architecture" />
+<img src="images/architecture.png" alt="architecture" />
 
 ### Pipeline graph
 
-<img src="pipeline_graph.png" alt="pipeline"/>
+<img src="images/pipeline_graph.png" alt="pipeline"/>
 
 ---
 
